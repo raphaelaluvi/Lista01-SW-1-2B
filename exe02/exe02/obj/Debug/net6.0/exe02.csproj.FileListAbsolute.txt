@@ -1,0 +1,15 @@
+C:\Users\LAB4\Downloads\exe02\exe02\bin\Debug\net6.0\exe02.exe
+C:\Users\LAB4\Downloads\exe02\exe02\bin\Debug\net6.0\exe02.deps.json
+C:\Users\LAB4\Downloads\exe02\exe02\bin\Debug\net6.0\exe02.runtimeconfig.json
+C:\Users\LAB4\Downloads\exe02\exe02\bin\Debug\net6.0\exe02.dll
+C:\Users\LAB4\Downloads\exe02\exe02\bin\Debug\net6.0\exe02.pdb
+C:\Users\LAB4\Downloads\exe02\exe02\obj\Debug\net6.0\exe02.csproj.AssemblyReference.cache
+C:\Users\LAB4\Downloads\exe02\exe02\obj\Debug\net6.0\exe02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Downloads\exe02\exe02\obj\Debug\net6.0\exe02.AssemblyInfoInputs.cache
+C:\Users\LAB4\Downloads\exe02\exe02\obj\Debug\net6.0\exe02.AssemblyInfo.cs
+C:\Users\LAB4\Downloads\exe02\exe02\obj\Debug\net6.0\exe02.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Downloads\exe02\exe02\obj\Debug\net6.0\exe02.dll
+C:\Users\LAB4\Downloads\exe02\exe02\obj\Debug\net6.0\refint\exe02.dll
+C:\Users\LAB4\Downloads\exe02\exe02\obj\Debug\net6.0\exe02.pdb
+C:\Users\LAB4\Downloads\exe02\exe02\obj\Debug\net6.0\exe02.genruntimeconfig.cache
+C:\Users\LAB4\Downloads\exe02\exe02\obj\Debug\net6.0\ref\exe02.dll
