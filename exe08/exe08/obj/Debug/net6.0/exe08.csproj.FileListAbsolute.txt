@@ -1,0 +1,14 @@
+C:\Users\Acer\Downloads\sw\exe08\exe08\bin\Debug\net6.0\exe08.exe
+C:\Users\Acer\Downloads\sw\exe08\exe08\bin\Debug\net6.0\exe08.deps.json
+C:\Users\Acer\Downloads\sw\exe08\exe08\bin\Debug\net6.0\exe08.runtimeconfig.json
+C:\Users\Acer\Downloads\sw\exe08\exe08\bin\Debug\net6.0\exe08.dll
+C:\Users\Acer\Downloads\sw\exe08\exe08\bin\Debug\net6.0\exe08.pdb
+C:\Users\Acer\Downloads\sw\exe08\exe08\obj\Debug\net6.0\exe08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\sw\exe08\exe08\obj\Debug\net6.0\exe08.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\sw\exe08\exe08\obj\Debug\net6.0\exe08.AssemblyInfo.cs
+C:\Users\Acer\Downloads\sw\exe08\exe08\obj\Debug\net6.0\exe08.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\sw\exe08\exe08\obj\Debug\net6.0\exe08.dll
+C:\Users\Acer\Downloads\sw\exe08\exe08\obj\Debug\net6.0\refint\exe08.dll
+C:\Users\Acer\Downloads\sw\exe08\exe08\obj\Debug\net6.0\exe08.pdb
+C:\Users\Acer\Downloads\sw\exe08\exe08\obj\Debug\net6.0\exe08.genruntimeconfig.cache
+C:\Users\Acer\Downloads\sw\exe08\exe08\obj\Debug\net6.0\ref\exe08.dll
