@@ -6,18 +6,7 @@ using System.Threading.Tasks;
 
 namespace exe05
 {
-    //class de tarefa que vai receber a descricao e a data de validade
-    public class Tarefa
-    {
-        public string Descricao { get; set; }
-        public DateTime DataVencimento { get; set; }
-
-        public Tarefa(string descricao, DateTime dataVencimento)
-        {
-            Descricao = descricao;
-            DataVencimento = dataVencimento;
-        }
-    }
+   
 
     public class GerenciadorDeTarefas
     {
