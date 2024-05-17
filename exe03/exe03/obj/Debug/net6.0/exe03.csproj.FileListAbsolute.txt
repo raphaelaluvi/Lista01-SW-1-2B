@@ -12,3 +12,11 @@ C:\Users\Acer\Downloads\sw\exe03\exe03\obj\Debug\net6.0\refint\exe03.dll
 C:\Users\Acer\Downloads\sw\exe03\exe03\obj\Debug\net6.0\exe03.pdb
 C:\Users\Acer\Downloads\sw\exe03\exe03\obj\Debug\net6.0\exe03.genruntimeconfig.cache
 C:\Users\Acer\Downloads\sw\exe03\exe03\obj\Debug\net6.0\ref\exe03.dll
+C:\Users\LAB4\Downloads\Lista01-SW-1-2B-main\Lista01-SW-1-2B-main\exe03\exe03\obj\Debug\net6.0\exe03.csproj.AssemblyReference.cache
+C:\Users\LAB4\Downloads\Lista01-SW-1-2B-main\Lista01-SW-1-2B-main\exe03\exe03\obj\Debug\net6.0\exe03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Downloads\Lista01-SW-1-2B-main\Lista01-SW-1-2B-main\exe03\exe03\obj\Debug\net6.0\exe03.AssemblyInfoInputs.cache
+C:\Users\LAB4\Downloads\Lista01-SW-1-2B-main\Lista01-SW-1-2B-main\exe03\exe03\obj\Debug\net6.0\exe03.AssemblyInfo.cs
+C:\Users\LAB4\Downloads\Lista01-SW-1-2B-main\Lista01-SW-1-2B-main\exe03\exe03\obj\Debug\net6.0\exe03.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Downloads\Lista01-SW-1-2B-main\Lista01-SW-1-2B-main\exe03\exe03\obj\Debug\net6.0\exe03.dll
+C:\Users\LAB4\Downloads\Lista01-SW-1-2B-main\Lista01-SW-1-2B-main\exe03\exe03\obj\Debug\net6.0\refint\exe03.dll
+C:\Users\LAB4\Downloads\Lista01-SW-1-2B-main\Lista01-SW-1-2B-main\exe03\exe03\obj\Debug\net6.0\exe03.pdb
